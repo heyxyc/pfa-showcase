@@ -247,7 +247,7 @@ export default function App() {
                 </div>
                 <a
                   id="btn-course-outline"
-                  href={activeCourse.courseOutlineUrl || "https://academy.redcross.sg"}
+                  href={activeCourse.courseOutlineUrl || "https://www.redcross.sg/singapore-red-cross-academy.html"}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2.5 bg-white hover:bg-slate-50 text-slate-700 hover:text-slate-900 text-xs font-bold uppercase tracking-wider rounded-lg border border-slate-300 hover:border-slate-400 shadow-xs transition-all cursor-pointer whitespace-nowrap"
@@ -262,29 +262,6 @@ export default function App() {
         </div>
 
       </main>
-
-      {/* FOOTER */}
-      <footer className="bg-slate-900 text-slate-400 border-t border-slate-800 py-10 mt-16 text-xs">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-4">
-          <div className="flex justify-center items-center gap-3">
-            <span className="text-[#e60000] font-bold text-lg">+</span>
-            <span className="font-semibold text-slate-300 tracking-wider font-display uppercase">Singapore Red Cross Society</span>
-          </div>
-          <p className="max-w-md mx-auto text-slate-500 leading-relaxed">
-            Singapore Red Cross Academy is registered under the Charities Act and is dedicated to training community members in life-saving first aid.
-          </p>
-          <div className="border-t border-slate-800/80 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4 text-slate-500">
-            <div>
-              &copy; {new Date().getFullYear()} Singapore Red Cross. All rights reserved.
-            </div>
-            <div className="flex gap-4">
-              <a href="mailto:academy@redcross.sg" className="hover:text-slate-300 transition-colors">
-                academy@redcross.sg
-              </a>
-            </div>
-          </div>
-        </div>
-      </footer>
 
     </div>
   );
