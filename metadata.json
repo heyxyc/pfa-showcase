@@ -1,6 +1,0 @@
-{
-  "name": "Singapore Red Cross - PFA Course Showcase",
-  "description": "An interactive, customisable showcase of Psychological First Aid (PFA) courses with content editing tools and GitHub Pages deployment guides.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
