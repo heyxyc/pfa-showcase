@@ -113,7 +113,7 @@ export const initialCourses: Course[] = [
   },
   {
     id: "pfa-groups",
-    title: "PFA in Groups",
+    title: "Psychological First Aid in Groups",
     shortDescription: "Designed for leaders, managers, and team coordinators to deliver psychological support and group de-briefs during shared community or workplace crises.",
     whoItIsFor: "Team leaders, managers, school administrators, and community coordinators managing groups.",
     learnBullets: [
@@ -168,7 +168,7 @@ export const initialCourses: Course[] = [
   },
   {
     id: "pfa-customised",
-    title: "Customised PFA Training",
+    title: "Customised Training",
     shortDescription: "Bespoke PFA training programmes tailored specifically for your organisation's unique industry, operational environments, or employee profiles.",
     whoItIsFor: "Corporate organisations, government agencies, NGOs, and schools requiring custom workflows.",
     learnBullets: [
