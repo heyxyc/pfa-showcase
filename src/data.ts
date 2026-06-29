@@ -54,7 +54,7 @@ export const initialCourses: Course[] = [
       }
     ],
     enquiryEmail: "academy@redcross.sg",
-    courseOutlineUrl: "https://www.redcross.sg/singapore-red-cross-academy.html"
+    courseOutlineUrl: "https://redcross.sg/images/srca/New%20CPRHS%20Brochures/SRC%20PFA%20Brochure.pdf"
   },
   {
     id: "pfa-advanced",
@@ -109,7 +109,7 @@ export const initialCourses: Course[] = [
       }
     ],
     enquiryEmail: "academy@redcross.sg",
-    courseOutlineUrl: "https://www.redcross.sg/singapore-red-cross-academy.html"
+    courseOutlineUrl: "https://redcross.sg/images/srca/New%20CPRHS%20Brochures/SRC%20PFA%20Brochure.pdf"
   },
   {
     id: "pfa-groups",
@@ -164,7 +164,7 @@ export const initialCourses: Course[] = [
       }
     ],
     enquiryEmail: "academy@redcross.sg",
-    courseOutlineUrl: "https://www.redcross.sg/singapore-red-cross-academy.html"
+    courseOutlineUrl: "https://redcross.sg/images/srca/New%20CPRHS%20Brochures/SRC%20PFA%20Brochure.pdf"
   },
   {
     id: "pfa-customised",
@@ -219,6 +219,6 @@ export const initialCourses: Course[] = [
       }
     ],
     enquiryEmail: "academy@redcross.sg",
-    courseOutlineUrl: "https://www.redcross.sg/singapore-red-cross-academy.html"
+    courseOutlineUrl: "https://redcross.sg/images/srca/New%20CPRHS%20Brochures/SRC%20PFA%20Brochure.pdf"
   }
 ];

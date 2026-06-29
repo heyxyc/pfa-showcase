@@ -247,7 +247,7 @@ export default function App() {
                 </div>
                 <a
                   id="btn-course-outline"
-                  href={activeCourse.courseOutlineUrl || "https://www.redcross.sg/singapore-red-cross-academy.html"}
+                  href={activeCourse.courseOutlineUrl || "https://redcross.sg/images/srca/New%20CPRHS%20Brochures/SRC%20PFA%20Brochure.pdf"}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2.5 bg-white hover:bg-slate-50 text-slate-700 hover:text-slate-900 text-xs font-bold uppercase tracking-wider rounded-lg border border-slate-300 hover:border-slate-400 shadow-xs transition-all cursor-pointer whitespace-nowrap"
